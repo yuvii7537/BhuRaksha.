@@ -1,0 +1,6 @@
+{
+  "name": "भूरक्षा BHURAKSHA · Mine Subsidence EWS",
+  "description": "National mine subsidence early warning and villager evacuation system for Coal India Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
